@@ -1,0 +1,4 @@
+me/boops/randomcrate/Main.class
+me/boops/randomcrate/config/Config.class
+me/boops/randomcrate/events/PlayerInteract.class
+me/boops/randomcrate/events/PlayerMovment.class
