@@ -64,7 +64,6 @@ public class PlayerInteract implements Listener {
 							config.Set("crate.out", false);
 							
 							//Announce it!
-							Main.plugin.getServer().broadcastMessage(player.getDisplayName() + " Has found the crate!");
 						}
 					}
 				}
